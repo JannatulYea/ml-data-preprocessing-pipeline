@@ -1,0 +1,14 @@
+ Machine Learning Data Preprocessing Pipeline
+
+A foundational Data Science project demonstrating an end-to-end data preprocessing pipeline in Python using Scikit-Learn, Pandas, and NumPy.
+
+ Features
+Data Ingestion: Fetches open-source datasets via fetch_openml.
+Missing Value Imputation: Handled missing data using SimpleImputer.
+Feature Encoding: Transformed categorical variables using OneHotEncoder and OrdinalEncoder.
+Feature Scaling: Standardized numerical features using StandardScaler for machine learning algorithms.
+Data Splitting: Applied train_test_split to structure datasets for model training and evaluation.
+
+ Built With
+* Python 3
+* Scikit-Learn, Pandas, NumPy, Matplotlib
